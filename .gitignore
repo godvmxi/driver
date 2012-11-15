@@ -1,6 +1,14 @@
 # Object files
 *.o
+# Kernel Modules file
 *.ko
+*.cmd
+*.mod
+*.symvers
+*.order
+*.mod.c
+*.mod.o
+*.tmp*
 
 # Libraries
 *.lib
